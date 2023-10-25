@@ -1,15 +1,18 @@
 # Speed School Student Developer Network
 
-🏗️ Repos still under planning
+🏗️ Repos still under planning!
 
-### ⭐ Project Target
+### ⭐ Project Goal
 
 Here at the University of Louisville, the J.B. Speed School of Engineering is the home of our Copmuter Science majors. Being one myself, I want to create a platform that allows both myself (@lordruzki) and other students to share and easily access resources that can help us all succeed and go beyond what our classes teach us.
 
-## 🗒️ Project Plan
+## 🗒️ V0.1 Plan
 
-A web application that unifies and organizes resources for programming. It would have links and refeences to information based on classes as well as resources to introduce more advanced topics.
-
+The first (non-release) version of the program will be built using a basic HTML format with a CSS background and small bits of JavaScript for the few scripts it would need.
+<!--
+# Contributors!
+Welcome to the project. If you have any ideas that the project could benefit from don't stray from sharing them. Go ahead and branch it and try stuff out!
+-->
 Possible Future Features
 ---
 - Support for other classes in the future
